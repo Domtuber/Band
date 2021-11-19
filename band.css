@@ -1,0 +1,188 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.heading{
+    background-color: rgb(60, 60, 199);
+    padding-top: 2%;
+    padding-bottom: 2%;
+    position: sticky;
+    width: 100%;
+    height: 16.5%;
+    margin-bottom: 5%;
+    border: solid 5px black;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    display: flex;
+    align-items: center;
+}
+
+.heading h1 {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+.heading img {
+    float: left;
+    margin-top: -1%;
+}
+
+/* v buttons v */
+
+.nav {
+    display: flex;
+}
+
+.nav * {
+    padding: 0;
+    float: left;
+    align-items: center;
+    margin-top: auto;
+}
+
+.home img {
+    width: 80%;
+}
+
+.twenty_season img {
+    width: 80%;
+    margin-left: 5%;
+}
+
+.past_seasons img {
+    width: 80%;
+}
+
+.concert_season img {
+    width: 80%;
+}
+
+.scholarship img {
+    width: 80%;
+}
+
+.directors img {
+    width: 80%;
+}
+
+/* ^ buttons ^ */
+
+.info * {
+    display:inline-block;
+    color: white;
+    background-color: rgb(60, 60, 199);
+    padding-top: 5%;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    margin-top: 0;
+}
+
+.info {
+    padding-bottom: 10%;
+}
+
+body {
+    background-color:rgb(187, 181, 181);
+}
+
+.group_photo {
+    margin-left: 25%;
+}
+
+.contact {
+    width:32.9%;
+    float:left;
+    padding-bottom: 16.5%;
+    border: solid 5px gold;
+    border-right: 0;
+    border-left: 0;
+    border-bottom: 0;
+}
+
+.contact p {
+    margin-left: 5%;
+}
+
+.navigate {
+    width:32.9%;
+    float:left;
+    padding-bottom: 1.1%;
+    border: solid 5px gold;
+    border-right: 0;
+    border-left: 0;
+    border-bottom: 0;
+    padding-right: 0.009%;
+}
+
+.navigate * {
+    margin-left: 40%;
+}
+
+.social {
+    width:33.3%;
+    float:right;
+    padding-bottom: 6.3%;
+    padding-left: 0.89%;
+    border: solid 5px gold;
+    border-right: 0;
+    border-bottom: 0;
+    border-left: 0;
+}
+
+.social p {
+    margin-left: 45%;
+}
+
+.social a {
+    margin-left: 50%;
+}
+
+table {
+    border-width: medium;
+}
+
+.brooke {
+    margin-left: 10%;
+}
+
+
+.sponsors {
+    background-color: black;
+    padding: 0;
+}
+
+.sponsorA {
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.sponsorA img {
+    float: left;
+    padding: 0;
+    margin-top: 1.9%;
+    padding-right: 5%;
+}
+
+.isaac {
+    width: 20%;
+    float: left;
+}
+
+.isaac_desc {
+    margin-left: 25%;
+    margin-top: 4%;
+}
+
+.season_pics_twenty img {
+    width: 70%;
+}
+
+.season_pics_twenty {
+    padding: 0;
+    margin-left: 23%;
+}
+
+.centered_header {
+    text-align: center;
+}
