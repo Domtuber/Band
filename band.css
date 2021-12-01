@@ -55,7 +55,7 @@
     width: 80%;
 }
 
-.concert_season img {
+.news img {
     width: 80%;
 }
 
@@ -107,7 +107,7 @@ body {
 .navigate {
     width:32.9%;
     float:left;
-    padding-bottom: 1.1%;
+    padding-bottom: 19.55%;
     border: solid 5px gold;
     border-right: 0;
     border-left: 0;
@@ -115,7 +115,7 @@ body {
     padding-right: 0.009%;
 }
 
-.navigate * {
+.navigate p {
     margin-left: 40%;
 }
 
@@ -164,25 +164,3 @@ table {
     padding-right: 5%;
 }
 
-.isaac {
-    width: 20%;
-    float: left;
-}
-
-.isaac_desc {
-    margin-left: 25%;
-    margin-top: 4%;
-}
-
-.season_pics_twenty img {
-    width: 70%;
-}
-
-.season_pics_twenty {
-    padding: 0;
-    margin-left: 23%;
-}
-
-.centered_header {
-    text-align: center;
-}
