@@ -48,7 +48,6 @@
 
 .twenty_season img {
     width: 80%;
-    margin-left: 5%;
 }
 
 .past_seasons img {
@@ -86,10 +85,6 @@ body {
     background-color:rgb(187, 181, 181);
 }
 
-.group_photo {
-    margin-left: 25%;
-}
-
 .contact {
     width:32.9%;
     float:left;
@@ -107,7 +102,7 @@ body {
 .navigate {
     width:32.9%;
     float:left;
-    padding-bottom: 19.55%;
+    padding-bottom: 1.1%;
     border: solid 5px gold;
     border-right: 0;
     border-left: 0;
@@ -115,7 +110,7 @@ body {
     padding-right: 0.009%;
 }
 
-.navigate p {
+.navigate * {
     margin-left: 40%;
 }
 
@@ -138,14 +133,9 @@ body {
     margin-left: 50%;
 }
 
-table {
-    border-width: medium;
-}
-
 .brooke {
     margin-left: 10%;
 }
-
 
 .sponsors {
     background-color: black;
@@ -155,12 +145,82 @@ table {
 .sponsorA {
     margin-bottom: 0;
     padding: 0;
+    padding-right: 5%;
+    padding-left: 4.5%;
 }
 
 .sponsorA img {
     float: left;
     padding: 0;
-    margin-top: 1.9%;
-    padding-right: 5%;
+    margin-top: 3%;
+    padding-right: 7%;
 }
 
+.sponsorB img {
+    float: left;
+    padding: 0;
+    padding-right: 7%;
+    margin-top: 1%;
+}
+
+.sponsorC img {
+    float: left;
+    padding: 0;
+    padding-right: 12%;
+}
+
+.sponsorD img {
+    padding-bottom: 4%;
+    margin-top: 3%;
+}
+
+.isaac {
+    width: 20%;
+    float: left;
+}
+
+.isaac_desc {
+    margin-left: 25%;
+    margin-top: 4%;
+}
+
+.season_pics_twenty img {
+    width: 70%;
+}
+
+.season_pics_twenty {
+    padding: 0;
+    margin-left: 23%;
+}
+
+.centered_header {
+    text-align: center;
+}
+
+li {
+    margin-bottom: 1%;
+}
+
+.names {
+    margin-right: 30%;
+}
+
+.group_photo {
+    margin-left: 25%;
+}
+
+table {
+    border-collapse: collapse;
+    background-color:rgb(60, 60, 199)
+}
+
+table img {
+    width: 40%;
+}
+
+table td {
+    border: solid 2px black;
+    border-right: 0;
+    border-left: 0;
+    text-align: center;
+}
