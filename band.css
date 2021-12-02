@@ -219,8 +219,17 @@ table img {
 }
 
 table td {
-    border: solid 2px black;
+    border: solid 4px gold;
     border-right: 0;
     border-left: 0;
     text-align: center;
+    color:white;
+}
+
+.cierramark {
+    width: 100%;
+}
+
+.cierramark img {
+    width: 20%;
 }
