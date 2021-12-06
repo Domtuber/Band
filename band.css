@@ -20,7 +20,7 @@
 }
 
 .heading h1 {
-    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-family:  'Roboto Slab', serif;
     color: white;
 }
 
@@ -73,7 +73,7 @@
     color: white;
     background-color: rgb(60, 60, 199);
     padding-top: 5%;
-    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-family:  'Arimo', sans-serif;
     margin-top: 0;
 }
 
@@ -140,6 +140,7 @@ body {
 .sponsors {
     background-color: black;
     padding: 0;
+    border-top: solid 5px gold;
 }
 
 .sponsorA {
@@ -232,4 +233,20 @@ table td {
 
 .cierramark img {
     width: 20%;
+}
+
+.past_info {
+    padding: 0;
+}
+
+.past_info h1 {
+    text-align: center;
+}
+
+.past_info img {
+    margin-left: 20%;
+}
+
+.past_info ul {
+    text-align: center;
 }
