@@ -66,8 +66,12 @@
     width: 50%;
 }
 
+.directors img {
+    width: 50%;
+}
+
 .directors p{
-    #add styles here for director's page
+    /* add styles here for director's page */
     font-family: 'Arial';
     font-size: 12pt;
 }
