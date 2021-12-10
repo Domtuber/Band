@@ -67,6 +67,12 @@
     height: 281px;
 }
 
+.directors p{
+    #add styles here for director's page
+    font-family: 'Arial';
+    font-size: 12pt;
+}
+
 /* ^ buttons ^ */
 
 .info * {
