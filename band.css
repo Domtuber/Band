@@ -44,27 +44,26 @@
     float: left;
     align-items: center;
     margin-top: auto;
-    width: 20%;
 }
 
 .home img {
-    width: 80%;
+    width: 50%;
 }
 
 .twenty_season img {
-    width: 80%;
+    width: 50%;
 }
 
 .past_seasons img {
-    width: 80%;
+    width: 50%;
 }
 
 .news img {
-    width: 80%;
+    width: 50%;
 }
 
 .scholarship img {
-    width: 80%;
+    width: 50%;
 }
 
 .directors p{
