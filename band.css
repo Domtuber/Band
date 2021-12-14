@@ -29,10 +29,6 @@
     margin-top: -1%;
 }
 
-.group_photo {
-    margin-left: 20%;
-}
-
 /* v buttons v */
 
 .nav {
@@ -44,41 +40,31 @@
     float: left;
     align-items: center;
     margin-top: auto;
-    width: 90%;
 }
 
 .home img {
-    width: 50%;
+    width: 80%;
 }
 
 .twenty_season img {
-    width: 50%;
+    width: 80%;
 }
 
 .past_seasons img {
-    width: 50%;
+    width: 80%;
 }
 
 .news img {
-    width: 50%;
+    width: 80%;
 }
 
 .scholarship img {
-    width: 50%;
+    width: 80%;
 }
 
 .directors img {
-    width: 50%;
+    width: 80%;
 }
-
-.directorspage p{
-    /* add styles here for director's page */
-    font-family: 'Roboto Slab', serif;
-    font-size: 12pt;
-}
-
-.directorspage img {
-    width: 20%;
 
 /* ^ buttons ^ */
 
@@ -189,9 +175,32 @@ body {
     margin-top: 3%;
 }
 
+.isaac {
+    width: 20%;
+    float: left;
+    margin-left: 2%;
+}
+
 .isaac_desc {
     margin-left: 25%;
     margin-top: 4%;
+}
+
+.foret {
+    width: 10%;
+    float: left;
+    margin-top: 0.5%;
+    margin-left: 2%;
+}
+
+.foret_desc {
+    margin-left: 15%;
+}
+
+.kerr {
+    width: 11%;
+    float: right;
+    margin-top: -2%;
 }
 
 .season_pics_twenty img {
@@ -201,6 +210,10 @@ body {
 .season_pics_twenty {
     padding: 0;
     margin-left: 23%;
+}
+
+.senior_names {
+    margin-left: -18.5%;
 }
 
 .centered_header {
@@ -257,5 +270,21 @@ table td {
 }
 
 .past_info ul {
+    text-align: center;
+}
+
+.season_pics_twenty ul {
+    margin-left: 20%;
+}
+
+.season_pics_twenty p {
+    margin-left: 20%;
+}
+
+.brooke_info {
+    text-align: center;
+}
+
+.senior_names {
     text-align: center;
 }
