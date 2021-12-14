@@ -10,12 +10,8 @@ I worked on the CSS portion of the code and edited HTML when needed. I positione
 
 
 
-We went the extra mile with our footer. The footer is composed of 3 'blocks' for each type of navigation link.
-
-
-
-We did however run into problems with image files which was out of our control, but in the end everything is how it should be. Amro Music does not have a working website.
-
+We did however run into problems with image files which was out of our control. Amro Music does not have a working website.
+Our CSS may not work which we have no clue how to fix or why it is happening but it happens only on github files
 
 
 We did not create custom images or videos for the client.
